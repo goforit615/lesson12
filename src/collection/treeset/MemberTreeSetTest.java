@@ -9,7 +9,7 @@ public class MemberTreeSetTest {
         MemberTreeSet memberTreeSet = new MemberTreeSet();
 
 
-        Member memberPark = new Member(1003, "박서훤");
+        Member memberPark = new Member(1003, "박서원M");
         Member memberLee = new Member(1001, "이지원");
         Member memberSon = new Member(1002, "손민국");
 
